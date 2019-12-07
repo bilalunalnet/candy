@@ -130,3 +130,8 @@ pre {
     font-size: small;
     color: #9eadbd;
 }
+
+p img[alt=le-me] {
+    width: 200px;
+    height: 200px;
+}
